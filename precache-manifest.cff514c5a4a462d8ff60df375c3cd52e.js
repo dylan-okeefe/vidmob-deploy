@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/vidmob-deploy/static/media/ic-large-email-generic.032abe26.svg"
   },
   {
-    "revision": "998527c52d68bd73c637de6f80920f8a",
+    "revision": "1b1b5ee34a8b763b2d57666b133fbd11",
     "url": "/vidmob-deploy/index.html"
   }
 ];
